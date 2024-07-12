@@ -6,7 +6,8 @@ module.exports = {
       fontFamily:{
         'chillax' : ['Chillax', 'sams-serif'],
         'inter' : ['Inter', 'sans-serif'],
-        'satoshi' : ['Satoshi', 'sans-serif']
+        'satoshi' : ['Satoshi', 'sans-serif'],
+        'montserrat' : ['Montserrat', 'sans-serif']
       }
     },
   },
